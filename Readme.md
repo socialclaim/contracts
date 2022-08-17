@@ -16,6 +16,9 @@
 The recommended way of interaction with the contract is to use the following dapp :
 [socialclaim.nescrypto.com](https://socialclaim.nescrypto.com)
 
+### For contract owner
+- 1: `setWalletSelector()` to a HTML selector valid that can only be edited by the owner of the social media page you selected
+
 ### Manual usage for wallet creation
 
 - 1:  `transferAndCall()` to transfer $LINK tokens to the contract balance
