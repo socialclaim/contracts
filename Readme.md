@@ -3,7 +3,7 @@
 ## We empower ✊ people to fundraise for charities and individuals
 ### Trusted, secure and decentralised
 
-### This [master contract](./socialclain.sol) can be found live on the Polygon Mumbai Testnet :
+### This [master contract](./socialclaim.sol) can be found live on the Polygon Mumbai Testnet :
 [0x0a07E53cbF44B50e92F81594c5AD74E0b2D2d452](https://mumbai.polygonscan.com/address/0x0a07E53cbF44B50e92F81594c5AD74E0b2D2d452)
 
 ### Disclamer
